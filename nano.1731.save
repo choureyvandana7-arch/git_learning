@@ -1,3 +1,14 @@
 i study python , git and git hub 
 i am vandana chourey i am in decode data academy 
 it is very benefit for us 
+what is git?
+git is an open source distributed ,@@ version control ,software system manage to handle very small to very large project with speed efficiency.
+what is git hub?
+git hub is a cloud , based platform/website used to host(upload) git reporsitories(project).
+it allows sharing and collaboration along with all the git features .
+mkdis-create folder
+touch-create file
+nano- text editor
+cat- supported file
+
+ git config --list 
