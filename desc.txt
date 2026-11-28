@@ -8,7 +8,7 @@ Git is a free and open-source Version Control System (VCS) used to track changes
 **Description:**\
 Git helps developers manage and maintain different versions of their projects. It records changes made to the code, allows developers to return to previous versions, and helps multiple developers work on the same project. Git works locally on a computer and is widely used in software development and data analysis.
 
-**Features of Git:**
+**Features of Git:** ......
 
 1. Tracks changes in source code.
 2. Maintains project history.
